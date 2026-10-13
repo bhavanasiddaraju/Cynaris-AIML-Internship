@@ -1,0 +1,9 @@
+user_input,retrieved_contexts,response,reference,faithfulness,answer_relevancy
+My order ORD123 has not arrived. Can you help?,"['For delayed orders, acknowledge the concern and explain that delivery status must be checked.']","Hello! I would be happy to help you look into your order ORD123. 
+
+To help me check the current status of your delivery, could you please confirm your shipping address and the email address associated with your account?",The agent should acknowledge the delayed order and explain that delivery status must be checked.,0.0,0.8135080417240452
+What was my order number?,['The customer previously stated that the order number is ORD123.'],"Hello! 
+
+Your order number is ORD123. 
+
+To help me look into the delivery status for you, could you please confirm the shipping address and the email address associated with your account?",The order number mentioned earlier was ORD123.,1.0,0.7409310180835976
