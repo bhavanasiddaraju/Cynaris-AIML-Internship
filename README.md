@@ -1,1 +1,1 @@
-# Cynaris AIML intership
+# Cynaris AIML internship
