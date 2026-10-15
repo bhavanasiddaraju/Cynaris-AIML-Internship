@@ -1,0 +1,13 @@
+============================= test session starts ==============================
+platform linux -- Python 3.13.16, pytest-8.4.2, pluggy-1.6.0 -- /usr/bin/python3
+cachedir: .pytest_cache
+rootdir: /content/W12D5_Production_AI_System
+plugins: anyio-4.15.1, platformdirs-4.12.2, langsmith-0.14.2, typeguard-4.6.0
+collecting ... collected 3 items
+
+tests/test_app.py::test_health_endpoint PASSED                           [ 33%]
+tests/test_app.py::test_prediction_endpoint PASSED                       [ 66%]
+tests/test_app.py::test_monitoring_endpoint PASSED                       [100%]
+
+============================== 3 passed in 1.11s ===============================
+
