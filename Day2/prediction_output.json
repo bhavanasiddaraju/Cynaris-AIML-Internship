@@ -1,0 +1,7 @@
+{
+  "status_code": 200,
+  "response": {
+    "input": 4.0,
+    "prediction": 1
+  }
+}
