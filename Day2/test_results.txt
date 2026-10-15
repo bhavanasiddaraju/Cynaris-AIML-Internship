@@ -1,0 +1,12 @@
+============================= test session starts ==============================
+platform linux -- Python 3.13.16, pytest-8.4.2, pluggy-1.6.0 -- /usr/bin/python3
+cachedir: .pytest_cache
+rootdir: /content/W12D2_Docker_for_AI
+plugins: platformdirs-4.12.2, anyio-4.15.1, langsmith-0.14.2, typeguard-4.6.0
+collecting ... collected 2 items
+
+tests/test_app.py::test_health PASSED                                    [ 50%]
+tests/test_app.py::test_prediction PASSED                                [100%]
+
+============================== 2 passed in 2.04s ===============================
+
